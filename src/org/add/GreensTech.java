@@ -41,7 +41,6 @@ private void greensAnnaNagar() {
 	// TODO Auto-generated method stub
 System.out.println("Greens Anna Nagar");
 }
-
 public static void main(String[] args) {
 	GreensTech a=new GreensTech();
 	a.greensOmr();
@@ -51,3 +50,5 @@ public static void main(String[] args) {
 	a.greensAnnaNagar();
 }
 }
+
+
